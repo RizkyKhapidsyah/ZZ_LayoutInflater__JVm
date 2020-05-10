@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZZ_LayoutInflater__JVm</string>
+    <string name="TV_1_SubActivity1_IDXML">Ini Adalah Sub Activity 1</string>
+    <string name="TV_1_SubActivity2_IDXML">Ini Sub Activity 2</string>
+    <string name="TV_2_SubActivity2_IDXML">Nama : Rizky Khapidsyah</string>
+    <string name="TV_3_SubActivity2_IDXML">Jurusan: Medan-Belawan</string>
+    <string name="TV_4_SubActivity2_IDXML">Job: Programmer</string>
+    <string name="TV_1_MainActivity_IDXML">Activity Utama</string>
+</resources>
